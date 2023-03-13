@@ -17,3 +17,4 @@
 
 ## Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=D4SuCE&repo=JutSuNewBot&theme=midnight-purple&bg_color=00000000)](https://github.com/D4SuCE/JutSuNewBot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=D4SuCE&repo=PaymentSystem&theme=midnight-purple&bg_color=00000000)](https://github.com/D4SuCE/PaymentSystem)
