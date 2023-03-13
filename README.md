@@ -4,8 +4,8 @@
 ![](https://skillicons.dev/icons?i=cpp,c,visualstudio,git,powershell,bash,linux,cmake)
 
 ## Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=D4SuCE&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=00000000&line_height=27)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D4SuCE&theme=midnight-purple&hide_border=true&bg_color=00000000&langs_count=3)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=D4SuCE&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=00000000&line_height=27&hide=css)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D4SuCE&theme=midnight-purple&hide_border=true&bg_color=00000000&langs_count=3&hide=css)
 
 ## Links
 ### Messengers
@@ -16,5 +16,5 @@
 [![](https://img.shields.io/badge/d4suce@gmail.com-ff0000?style=for-the-badge&logo=Gmail&logoColor=ffffff)](mailto:d4suce@gmail.com)
 
 ## Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=D4SuCE&repo=JutSuNewBot&theme=midnight-purple&bg_color=00000000)](https://github.com/D4SuCE/JutSuNewBot)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=D4SuCE&repo=PaymentSystem&theme=midnight-purple&bg_color=00000000)](https://github.com/D4SuCE/PaymentSystem)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=D4SuCE&repo=JutSuNewBot&theme=midnight-purple&bg_color=00000000&hide=css)](https://github.com/D4SuCE/JutSuNewBot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=D4SuCE&repo=PaymentSystem&theme=midnight-purple&bg_color=00000000&hide=css)](https://github.com/D4SuCE/PaymentSystem)
