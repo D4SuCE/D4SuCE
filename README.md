@@ -7,6 +7,9 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=D4SuCE&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=00000000&line_height=27&hide=css)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D4SuCE&theme=midnight-purple&hide_border=true&bg_color=00000000&langs_count=3&hide=css)
 
+## LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/D4SuCE?theme=unicorn&font=Ubuntu&border=0)
+
 ## Links
 ### Messengers
 [![](https://img.shields.io/badge/t.me%2FxD4SuCE-26A5E4?style=for-the-badge&logo=Telegram&logoColor=ffffff)](https://t.me/xD4SuCE)
